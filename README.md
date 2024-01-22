@@ -1,3 +1,4 @@
+<img width="927" alt="challengeIMG" src="https://github.com/mickshiferaw/challenge/assets/102963340/9cfc27f6-f3a8-48fa-b36a-42a958e0d9f9">
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
